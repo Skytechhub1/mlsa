@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/triangles-1430105_1280.jpg";
+import image from "../images/b.jpg";
 
 const imageAltText = "colourful picture";
 
@@ -34,26 +34,25 @@ const projectList = [
     title: "My blog website",
     description:
     "This i my blog website where i will write about my experiences.",
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://skytechhub.odoo.com",
+    url: "https://skytechhub.odoo.com/",
   },
   {
     title: "Image downloader ",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://pixabay.com",
+    url: "https://pixabay.com/",
   },
   {
     title: "My Linkedin Profile",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://www.linkedin.com/in/sukeshyadav",
+    url: "https://www.linkedin.com/in/sukeshyadav/",
   },
   {
     title: "GitHub profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://github.com/Skytechhub1",
+      "Video interview to dev versus GitHub Codespaces, and how best to use each tool.",
+    url: "https://github.com/Skytechhub1/",
   },
 ];
 
